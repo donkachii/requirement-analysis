@@ -8,7 +8,7 @@ A requirement analysis is a phase about what a system should do, or how it shoul
 
 Think of requirements as the bridge between stakeholders (people who need the system) and developers (people who build the system).
 
-### Why Requirements Matter
+### Why is Requirement Analysis Important?
 
 	•	They prevent misunderstanding between developers and stakeholders.
 	•	They save time and cost by reducing rework.
